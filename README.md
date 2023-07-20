@@ -2,6 +2,9 @@
 
 Introducing an Electron UI toolkit that evokes a sense of nostalgia, for crafting desktop applications.
 
+<img alt="screenshot" title="Example" width="700" height="599" src="https://github.com/preist/macintosh-electron-ui/assets/14940633/f476ac53-cde0-40bb-bfa4-ab65245b9796" />
+
+
 ## Features
 
 - **Nostalgic Design**: Enjoy the aesthetic appeal of the iconic Macintosh UI, reminiscent of the early days of personal computing.
